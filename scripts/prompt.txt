@@ -1,1 +1,1 @@
-あなたは何のモデル？何ができる？answer in Japanese.
+あなたは何のモデル？何ができる？answer in Japanese and response usiing JSON.
