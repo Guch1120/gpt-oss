@@ -1,1 +1,1 @@
-あなたは何のモデル？何ができる？answer in Japanese and response usiing JSON.
+あなたは何のモデル？何ができる？answer in Japanese and response usiing JSON.マークダウン形式で回答しないでください。
